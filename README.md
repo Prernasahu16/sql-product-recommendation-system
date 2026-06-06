@@ -1,4 +1,4 @@
-# Ecommerce Extension
+# sql-product-recommendation-system
 
 ## Overview
 
